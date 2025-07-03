@@ -1,1 +1,32 @@
-/* Start coding here */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgrey;
+  }
+  
+
+  .outer-border {
+    margin: 30px; 
+    padding: 10px;
+    background-color: black;
+  }
+  
+  
+  .inner-border {
+    padding: 10px;
+    background-color: crimson;
+  }
+  
+  
+  .content {
+    background-color: khaki;
+    padding: 30px;
+    text-align: center;
+  }
+  
+ 
+  .content h1 {
+    font-size: 72px;
+    margin: 0;
+    color: black;
+  }
